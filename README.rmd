@@ -1,0 +1,13 @@
+Developed a comprehensive event management platform for a service company specializing in organizing events such as conferences, seminars, and workshops. The platform allows participants to register online and enables efficient staff assignment (hosts, facilitators, technicians) based on specific event requirements.
+
+**Key Features:
+
+- Online event registration for participants.
+- Dynamic staff assignment management based on event-specific needs.
+- Structured data handling and validation using XML and XSD.
+
+**Technologies Used:
+
+- Frontend: React.js for building an interactive and responsive user interface.
+- Backend: Django for robust server-side logic and RESTful API development.
+- Database: XML for data storage and validation.
